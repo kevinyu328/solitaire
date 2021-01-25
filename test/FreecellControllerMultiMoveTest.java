@@ -1,10 +1,10 @@
 import static org.junit.Assert.assertEquals;
 
-import cs3500.freecell.hw02.Card;
-import cs3500.freecell.hw02.FreecellOperations;
-import cs3500.freecell.hw03.FreecellController;
-import cs3500.freecell.hw04.FreecellModelCreator;
-import cs3500.freecell.hw04.FreecellModelCreator.GameType;
+import freecell.freecell.model.Card;
+import freecell.freecell.model.FreecellOperations;
+import freecell.freecell.controller.FreecellController;
+import freecell.freecell.model.FreecellModelCreator;
+import freecell.freecell.model.FreecellModelCreator.GameType;
 import java.io.StringReader;
 import java.util.Collections;
 import java.util.List;

@@ -1,9 +1,9 @@
-package cs3500.freecell.hw03;
+package freecell.freecell;
 
-import cs3500.freecell.hw02.Card;
-import cs3500.freecell.hw02.FreecellModel;
-import cs3500.freecell.hw02.FreecellOperations;
-import cs3500.freecell.hw03.FreecellController;
+import freecell.freecell.controller.FreecellController;
+import freecell.freecell.model.FreecellOperations;
+import freecell.freecell.model.Card;
+import freecell.freecell.model.FreecellModel;
 import java.io.InputStreamReader;
 import java.util.Collections;
 import java.util.List;

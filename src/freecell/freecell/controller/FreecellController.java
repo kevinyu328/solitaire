@@ -1,8 +1,8 @@
-package cs3500.freecell.hw03;
+package freecell.freecell.controller;
 
-import cs3500.freecell.hw02.Card;
-import cs3500.freecell.hw02.FreecellOperations;
-import cs3500.freecell.hw02.PileType;
+import freecell.freecell.PileType;
+import freecell.freecell.model.Card;
+import freecell.freecell.model.FreecellOperations;
 import java.io.IOException;
 import java.util.List;
 import java.util.NoSuchElementException;

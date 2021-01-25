@@ -1,9 +1,9 @@
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotEquals;
 
-import cs3500.freecell.hw02.Card;
-import cs3500.freecell.hw02.Card.Rank;
-import cs3500.freecell.hw02.Card.Suit;
+import freecell.freecell.model.Card;
+import freecell.freecell.model.Card.Rank;
+import freecell.freecell.model.Card.Suit;
 import org.junit.Test;
 
 /**

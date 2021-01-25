@@ -1,17 +1,14 @@
-package cs3500.freecell.hw04;
+package freecell.freecell.model;
 
-import cs3500.freecell.hw02.Card;
-import cs3500.freecell.hw02.Card.Rank;
-import cs3500.freecell.hw02.Card.Suit;
-import cs3500.freecell.hw02.FreecellModel;
-import cs3500.freecell.hw02.PileType;
+import freecell.freecell.PileType;
+import freecell.freecell.model.Card.Rank;
+import freecell.freecell.model.Card.Suit;
 import java.util.ArrayList;
 import java.util.List;
 
 
 /**
- * A model for a Freecell game that allows for multi-moves. Extends the Freecell model written in
- * hw02.
+ * A model for a Freecell game that allows for multi-moves. Extends the basic Freecell model.
  */
 public class FreecellModelMultiMove extends FreecellModel {
 

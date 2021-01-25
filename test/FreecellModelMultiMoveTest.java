@@ -1,13 +1,13 @@
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
 
-import cs3500.freecell.hw02.Card;
-import cs3500.freecell.hw02.FreecellModel;
-import cs3500.freecell.hw02.FreecellOperations;
-import cs3500.freecell.hw02.PileType;
-import cs3500.freecell.hw04.FreecellModelCreator;
-import cs3500.freecell.hw04.FreecellModelCreator.GameType;
-import cs3500.freecell.hw04.FreecellModelMultiMove;
+import freecell.freecell.model.Card;
+import freecell.freecell.model.FreecellModel;
+import freecell.freecell.model.FreecellOperations;
+import freecell.freecell.PileType;
+import freecell.freecell.model.FreecellModelCreator;
+import freecell.freecell.model.FreecellModelCreator.GameType;
+import freecell.freecell.model.FreecellModelMultiMove;
 import java.util.Collections;
 import java.util.List;
 import org.junit.Test;

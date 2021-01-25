@@ -2,11 +2,11 @@ import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotEquals;
 import static org.junit.Assert.assertTrue;
 
-import cs3500.freecell.hw02.Card;
-import cs3500.freecell.hw02.Card.Rank;
-import cs3500.freecell.hw02.Card.Suit;
-import cs3500.freecell.hw02.FreecellOperations;
-import cs3500.freecell.hw02.PileType;
+import freecell.freecell.model.Card;
+import freecell.freecell.model.Card.Rank;
+import freecell.freecell.model.Card.Suit;
+import freecell.freecell.model.FreecellOperations;
+import freecell.freecell.PileType;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashSet;
@@ -14,7 +14,7 @@ import java.util.List;
 import java.util.Set;
 import org.junit.Test;
 
-import cs3500.freecell.hw02.FreecellModel;
+import freecell.freecell.model.FreecellModel;
 
 
 /**

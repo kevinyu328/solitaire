@@ -1,5 +1,6 @@
-package cs3500.freecell.hw02;
+package freecell.freecell.model;
 
+import freecell.freecell.PileType;
 import java.util.List;
 
 /**

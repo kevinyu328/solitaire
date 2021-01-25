@@ -1,4 +1,4 @@
-package cs3500.freecell.hw02;
+package freecell.freecell.model;
 
 /**
  * A class to represent a playing card.

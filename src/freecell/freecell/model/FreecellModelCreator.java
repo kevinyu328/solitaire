@@ -1,7 +1,4 @@
-package cs3500.freecell.hw04;
-
-import cs3500.freecell.hw02.FreecellModel;
-import cs3500.freecell.hw02.FreecellOperations;
+package freecell.freecell.model;
 
 /**
  * A factory class that creates an instance of a Freecell game.

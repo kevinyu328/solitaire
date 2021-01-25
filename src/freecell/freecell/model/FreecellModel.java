@@ -1,7 +1,8 @@
-package cs3500.freecell.hw02;
+package freecell.freecell.model;
 
-import cs3500.freecell.hw02.Card.Rank;
-import cs3500.freecell.hw02.Card.Suit;
+import freecell.freecell.PileType;
+import freecell.freecell.model.Card.Rank;
+import freecell.freecell.model.Card.Suit;
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;

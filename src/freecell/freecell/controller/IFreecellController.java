@@ -1,6 +1,6 @@
-package cs3500.freecell.hw03;
+package freecell.freecell.controller;
 
-import cs3500.freecell.hw02.FreecellOperations;
+import freecell.freecell.model.FreecellOperations;
 import java.util.List;
 
 /**
